@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std ;
 
-int sem = 3 ; 
+int sem = 1 ; 
 
 queue<int>waiting ;
 void acquire( int x ) {
